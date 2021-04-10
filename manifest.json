@@ -1,0 +1,13 @@
+{
+  "short_name": "MagicBalancer",
+  "name": "Magic Balancer",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
